@@ -6,7 +6,7 @@ A classic **Tic Tac Toe** game built using **HTML**, **CSS**, and **Vanilla Java
 ## 🚀 Features
 
 - 2-player mode
-- Winner detection
+- Winner detection ( song played when anyone win )
 - Draw condition
 - Reset functionality
 
